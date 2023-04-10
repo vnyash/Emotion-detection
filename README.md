@@ -1,19 +1,8 @@
-## [<p align="center"><img width="500" alt="found2" src="https://user-images.githubusercontent.com/33357541/84373486-5202d800-abe5-11ea-999c-cd1aa2c0da5d.png"></p>](https://vvitsenets.github.io)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-ML-yellow.svg)
-[![Build Status](https://travis-ci.com/vvitsenets/vvitsenets.github.io.svg?branch=master)](https://travis-ci.com/vvitsenets/vvitsenets.github.io)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/vvitsenets/vvitsenets.github.io.svg)](https://github.com/vvitsenets/vvitsenets.github.io/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Real-time emotion recognition in browser using javascript library [face-api.js](https://github.com/justadudewhohacks/face-api.js)
 
 face-api.js - JavaScript API for face detection and face recognition in the browser.
 
 JavaScript emotion recognition API for the browser implemented on top of tensorflow.js core ([tensorflow/tfjs-core](https://github.com/tensorflow/tfjs))
-
-![1111](https://user-images.githubusercontent.com/33357541/84510350-b1d4ae00-accd-11ea-861a-9dac35070817.png)
 
 ## TO DO
 
@@ -53,6 +42,3 @@ The size of the quantized model is roughly 6.2 MB (face_recognition_model).
 ### Face Expression Recognition Model
 
 The face expression recognition model is lightweight, fast and provides reasonable accuracy. The model has a size of roughly 310kb and it employs depthwise separable convolutions and densely connected blocks. It has been trained on a variety of images from publicly available datasets as well as images scraped from the web. Note, that wearing glasses might decrease the accuracy of the prediction results.
-
-[![2222](https://user-images.githubusercontent.com/33357541/84510416-c1ec8d80-accd-11ea-904e-d48d99cd009b.png)](https://vvitsenets.github.io)
- 
